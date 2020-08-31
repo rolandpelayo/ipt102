@@ -1,0 +1,31 @@
+offerNum	SubCode		Time		Day		Code
+
+01398		IM101   	9am-10am     	MTWThF  	lzafplj
+00602 		ADV103    	11am-12pm	MTWThF		wybtsvv
+01084 		ReEd305		1pm-2pm		MTWThF		tlhpz4e
+00604 		PT101		2pm-3pm		MTWThF		kshrlgi
+00607		MS102		4pm-5pm	    	MWF		-------
+00605 		NET102   	5.15pm-6.15pm  	MWF		cu55zmu
+00603 		SIA101		6.15pm-7.15pm    MTWThF		uygnmye
+
+01402 		IPT102 		8am-1pm		S		3ngb5tw
+
+
+
+59825107 Vetel ID num
+59819095 my ID num
+
+CourseCode	Sub Code		Time		Day		ClassCode
+
+00303		PE101(2018)		10-12pm		W		i2npqpi
+00301		CC101(2018)		1-2pm		MTWThF		4ykndid
+00302		CC102(2018)		2-3pm		MTWThF		uukz564
+00305		Scitech101(2018)	3-4pm		MWF		zeg2c6m
+00306		Hist101(2018)		4-5pm		MWF		videasa
+00309		Hum10(2018)		5:15-6:16pm	MWF		qyy7afu
+
+01807		ReED101(2018)		5-6:30pm	TTh		43xup3d
+00307		ESocSciPhil(2018)	6:30-8pm	TTh		hcfagw4
+00308		Rizal101(2018)		8-9:30pm	TTh		gnr5ksa
+
+
